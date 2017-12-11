@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "youtubecollection", "Assembly-CSharp.csproj", "{36BA76B3-FD6C-A657-4016-68842AA7F8D4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "youtubecollection", "Assembly-CSharp-Editor.csproj", "{F3BA9B56-E218-887E-E5CE-6DB7B8A6B34D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,10 @@ Global
 		{36BA76B3-FD6C-A657-4016-68842AA7F8D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{36BA76B3-FD6C-A657-4016-68842AA7F8D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{36BA76B3-FD6C-A657-4016-68842AA7F8D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3BA9B56-E218-887E-E5CE-6DB7B8A6B34D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3BA9B56-E218-887E-E5CE-6DB7B8A6B34D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3BA9B56-E218-887E-E5CE-6DB7B8A6B34D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3BA9B56-E218-887E-E5CE-6DB7B8A6B34D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
